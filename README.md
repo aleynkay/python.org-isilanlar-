@@ -1,3 +1,3 @@
 # python.org-isilanlar-
 
-python.org sitesindeki is ilanların bilgilerini çeken python programı.
+python.org sitesindeki is ilanların bilgilerini alan python programı.
